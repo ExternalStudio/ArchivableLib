@@ -84,7 +84,7 @@ _G.ALib:DestroyLib()
 
 ### Для читов\эксплоитов используйте это:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xoladev/ArchivableLib/refs/heads/main/lib.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalStudio/ArchivableLib/refs/heads/main/lib.lua"))()
 ```
 
 ### Для Roblox\Roblox Studio
