@@ -1566,4 +1566,4 @@ end
 --End
 ------------------------------------------------------------------------------------
 ArchivableLibGlobal:CreateNotification("Hello!", "ArchivableLib Loaded!", 3, _G.ALib.Assets.dogLOLImage)
-ArchivableLibGlobal:CreateNotification("Developed:", "xolaDev", 3, _G.ALib.Assets.dogLOLImage)
+ArchivableLibGlobal:CreateNotification("Developed:", "External", 3, _G.ALib.Assets.dogLOLImage)
